@@ -1,4 +1,4 @@
-### Dyogo 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DYOGO+11;Information+Systems)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyogo-rocha-a29322275/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dyogo11_/)
