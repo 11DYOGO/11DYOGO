@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DYOGO+11;Information+Systems)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/dyogo-rocha-a29322275/"> <img height="30" width="30" src="https://github.com/user-attachments/assets/52f4d265-196d-440e-b225-f9a45416d93c" /> </a>
-<a href="https://www.linkedin.com/in/dyogo-rocha-a29322275/"> <img height="30" width="30" src="https://github.com/user-attachments/assets/331bdea9-74cf-42dc-bf87-03b6aadc233c" /> </a>
+<a href="https://www.instagram.com/dyogo11_/"> <img height="30" width="30" src="https://github.com/user-attachments/assets/331bdea9-74cf-42dc-bf87-03b6aadc233c" /> </a>
 
 ![Dyogo11](https://github-readme-stats.vercel.app/api?username=DYOGO111&show_icons=true&theme=defalt)
 
