@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DYOGO+11;Information+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=°+DYOGO+11;°+°+°+Information+Systems)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/dyogo-rocha-a29322275/" target="_blank" > <img height="30" width="30" src="https://github.com/user-attachments/assets/52f4d265-196d-440e-b225-f9a45416d93c" /> </a>
 
