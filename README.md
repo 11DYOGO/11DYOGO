@@ -6,7 +6,7 @@
 
 ![Dyogo11](https://github-readme-stats.vercel.app/api?username=DYOGO111&show_icons=true&theme=defalt)
 
-<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="30" width="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.shareicon.net%2Fcss3-102374&psig=AOvVaw0HHWE95ue-vT8uze7OHNkR&ust=1741462452475000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCODu7anb-IsDFQAAAAAdAAAAABAE)" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 ![](https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif)
