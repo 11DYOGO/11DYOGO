@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=°+11+DYOGO;°+°+°+Information+Systems;°+°+°+°+°+°+°+°+°+°+°)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri+Light&weight=100&size=19&duration=1911&pause=11&color=90CAF9&background=FFFFFF&width=711&height=111&lines=☁️;📖;📄;°+11+DYOGO;°+°+°+Information+Systems;°+°+°+°+°+°+°+°+°+°+°)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/dyogo-rocha-a29322275/" target="_blank" > <img height="30" width="30" src="https://github.com/user-attachments/assets/52f4d265-196d-440e-b225-f9a45416d93c" /> </a>
 
