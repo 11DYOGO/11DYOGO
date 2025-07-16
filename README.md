@@ -10,3 +10,9 @@
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 ![](https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif)
+
+☁️⚪📖📱💻🔍⚽📈📆📄📘🌐⛄🐺🔭
+
+Dyogo Huann De Azevedo Rocha, tenho 23 anos e estou no 5º Período do curso de Sistemas de Informação. Ao longo da minha trajetória acadêmica, desenvolvi habilidades de liderança, comunicação e trabalho em equipe, essenciais para a construção de soluções tecnológicas e o desenvolvimento de projetos colaborativos. Busco aplicar esses conhecimentos de forma estratégica, contribuindo para resultados eficientes e inovadores em ambientes dinâmicos e desafiadores.
+
+Iniciei minha experiência prática por meio de projetos acadêmicos, desenvolvendo landing pages com funcionalidades de login, integração com banco de dados . Utilizei tecnologias como HTML, CSS, Tailwind CSS, React, TypeScript e C#, adquirindo conhecimentos sobre estruturação de páginas web, estilização responsiva e desenvolvimento de componentes. Essas experiências fortaleceram minha compreensão sobre desenvolvimento full stack e boas práticas na construção de interfaces intuitivas e eficientes.
