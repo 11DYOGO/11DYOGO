@@ -17,7 +17,4 @@ _Dyogo Huann De Azevedo Rocha, tenho 23 anos e estou no 5º Período do curso de
 
 _Iniciei minha experiência prática por meio de projetos acadêmicos, desenvolvendo landing pages com funcionalidades de login, integração com banco de dados . Utilizei tecnologias como HTML, CSS, Tailwind CSS, React, TypeScript e C#, adquirindo conhecimentos sobre estruturação de páginas web, estilização responsiva e desenvolvimento de componentes. Essas experiências fortaleceram minha compreensão sobre desenvolvimento full stack e boas práticas na construção de interfaces intuitivas e eficientes._
 
-[![11DYOGO](https://github-readme-stats.vercel.app/api/wakatime?username=11dyogo)](https://github.com/anuraghazra/github-readme-stats)
-
 [![11DYOGO](https://github-readme-stats.vercel.app/api/top-langs/?username=11DYOGO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
